@@ -1,0 +1,8 @@
+node_modules/
+dist/
+private-source/
+*.tsbuildinfo
+playwright-report/
+test-results/
+.env
+.env.*

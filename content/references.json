@@ -1,0 +1,88 @@
+{
+  "references": [
+    {
+      "id": "paper-2025-a",
+      "title": "Supplied 2025/2026 Version A paper",
+      "kind": "user-supplied PDF",
+      "location": "Original attachment; not bundled",
+      "scope": "All 36 English study adaptations and source page/number mapping. No official key supplied."
+    },
+    {
+      "id": "ipcc-spm",
+      "title": "IPCC AR6 WGIII Summary for Policymakers (2022)",
+      "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/",
+      "scope": "B.2.1: global 2019 sector shares; not Indonesian sector prioritization.",
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "ipcc-afolu",
+      "title": "IPCC AR6 WGIII Chapter 7: AFOLU",
+      "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-7/",
+      "scope": "Forest mitigation categories and contextual potential; not a universal certification of Q20's ranking.",
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "footprint-method",
+      "title": "Global Footprint Network: How many Earths? How many countries?",
+      "url": "https://overshoot.footprintnetwork.org/how-many-earths-or-countries-do-we-need/",
+      "scope": "Separates global-Earth and national-country denominators. Do not import this page's historical values as the missing 2022 denominator.",
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "boundaries-2023",
+      "title": "Stockholm Resilience Centre: Earth beyond six of nine planetary boundaries",
+      "url": "https://www.stockholmresilience.org/publications/publications/2024-10-12-earth-beyond-six-of-nine-planetary-boundaries.html",
+      "scope": "Richardson et al. (2023), DOI 10.1126/sciadv.adh2458; historical assessment only.",
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "maine",
+      "title": "University of Maine Sea Grant: Maine Seafood Guide, Lobster",
+      "url": "https://seagrant.umaine.edu/maine-seafood-guide/lobster/",
+      "scope": "US location and co-management context; not a blanket claim about all fishery outcomes.",
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "responsible-innovation",
+      "title": "Stilgoe, Owen, Macnaghten (2013): Developing a framework for responsible innovation",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/1393388/",
+      "scope": "Four dimensions and original paper. DOI 10.1016/j.respol.2013.05.008.",
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "rebound-paper",
+      "title": "Karen Turner (2009): Negative rebound and disinvestment effects",
+      "url": "https://www.strath.ac.uk/media/1newwebsite/departmentsubject/economics/research/researchdiscussionpapers/2009/09-02KT.pdf",
+      "scope": "Primary research context for rebound/backfire thresholds and non-universal outcomes; not the course's undefined RE notation.",
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "goldstein",
+      "title": "David B. Goldstein (2010): Some Dilemma",
+      "url": "https://www.nrdc.org/bio/david-b-goldstein/some-dilemma-efficient-appliances-use-less-energy-produce-same-level-service",
+      "scope": "Author's original refrigerator trend argument, specifically Q41.",
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "alter-fridges",
+      "title": "Lloyd Alter (2025): On Stanley Jevons and refrigerator size",
+      "url": "https://lloydalter.substack.com/p/on-stanley-jevons-and-refrigerator",
+      "scope": "Author's original commentary reporting agreement on sufficiency and Semke's political explanation; not consensus science.",
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "semke",
+      "title": "Zack Semke (2015): On the Jevons Paradox, Climate, and Fighting Defeatism",
+      "url": "https://hammerandhand.com/blog/on-the-jevons-paradox-climate-and-fighting-defeatism/",
+      "scope": "Original author commentary/background, not proof that rebound never occurs.",
+      "checkedOn": "2026-11-06"
+    },
+    {
+      "id": "vite-pages",
+      "title": "Vite: Deploying a Static Site",
+      "url": "https://vite.dev/guide/static-deploy",
+      "scope": "Official project-base and GitHub Actions deployment guidance; verify compatible package and action versions at implementation.",
+      "checkedOn": "2026-11-06"
+    }
+  ]
+}

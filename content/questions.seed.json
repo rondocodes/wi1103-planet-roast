@@ -1,0 +1,2027 @@
+{
+  "schemaVersion": 1,
+  "bankVersion": "2026-11-06.1",
+  "language": "en",
+  "title": "Planet Roast: WI1103 2025 Version A study bank",
+  "source": {
+    "fileName": "UTS Pengantar Prinsip Keberlanjutan 2025 Versi A.pdf",
+    "sha256": "4462120bb1f8b9581fe25b5bea79ad5e3d93a3b6c084130bbeb6c96b6128f7ad",
+    "pages": 13,
+    "examDurationMinutes": 60,
+    "presentQuestionNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "absentQuestionNumbers": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "officialKeySupplied": false
+  },
+  "notice": "English study adaptations. All scored keys are inferred, not lecturer-verified. Blocked items are ungraded.",
+  "chapters": [
+    {
+      "id": "foundations",
+      "sourceQuestionNumbers": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "id": "climate",
+      "sourceQuestionNumbers": [
+        2,
+        18,
+        19,
+        20,
+        21,
+        39,
+        45,
+        46
+      ]
+    },
+    {
+      "id": "systems",
+      "sourceQuestionNumbers": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "id": "consumption",
+      "sourceQuestionNumbers": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "paper-2025-a-q01",
+      "sourceQuestionNumber": 1,
+      "sourcePage": 1,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "foundations",
+      "topics": [
+        "sustainable development",
+        "three pillars",
+        "Brundtland"
+      ],
+      "stem": "Using the paper's historical context for Indonesia (GDP per person US$4,788; ecological footprint 1.8 gha), which strategy best integrates the economic, social, and environmental pillars of sustainable development?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maximize economic growth to catch up with Germany.",
+          "explanation": "GDP growth alone does not ensure social or environmental outcomes."
+        },
+        {
+          "id": "b",
+          "text": "Use Kerala's education-and-health investment approach to achieve strong human development at relatively low GDP.",
+          "explanation": "This is the best offered alternative to equating development with high material consumption."
+        },
+        {
+          "id": "c",
+          "text": "Copy US consumption patterns requiring 5.1 Earths.",
+          "explanation": "That consumption pattern conflicts with ecological limits."
+        },
+        {
+          "id": "d",
+          "text": "Restrict infrastructure development to preserve biocapacity.",
+          "explanation": "A blanket restriction ignores social and economic needs."
+        },
+        {
+          "id": "e",
+          "text": "Adopt a one-child policy like China's.",
+          "explanation": "Population control alone does not integrate all three pillars."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Among these options, investing in health and education best supports human well-being without requiring high-consumption development. The option does not by itself prove Kerala meets every environmental target.",
+      "memoryHook": "Development is more than GDP.",
+      "hint": "Look for human well-being without copying high resource use.",
+      "reviewNotes": [
+        "The GDP/footprint figures are paper context, not verified current values; the Kerala option is a best-among-options inference."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q02",
+      "sourceQuestionNumber": 2,
+      "sourcePage": 1,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "climate",
+      "topics": [
+        "GHG emissions",
+        "energy supply",
+        "mitigation"
+      ],
+      "stem": "Using the global sector shares quoted in the paper, which sector contributes the largest share of greenhouse-gas emissions? The paper also mentions Indonesia's historical 2060 NZE aim and 2022 Enhanced NDC.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Buildings: 6%, about 3.3 GtCO2-eq.",
+          "explanation": "This is smaller than the other offered sector shares."
+        },
+        {
+          "id": "b",
+          "text": "Transport: 15%, about 8.7 GtCO2-eq.",
+          "explanation": "This is substantial but below energy supply."
+        },
+        {
+          "id": "c",
+          "text": "AFOLU: 22%, about 13 GtCO2-eq.",
+          "explanation": "This is not the largest global share listed."
+        },
+        {
+          "id": "d",
+          "text": "Industry: 24%, about 14 GtCO2-eq.",
+          "explanation": "This is the second-largest listed share."
+        },
+        {
+          "id": "e",
+          "text": "Energy supply: 34%, about 20 GtCO2-eq.",
+          "explanation": "This is the largest offered share, consistent with the cited IPCC 2019 accounting."
+        }
+      ],
+      "answerOptionId": "e",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Energy supply is the largest sector in this accounting. These are global 2019 shares reported in IPCC AR6, not a ranking of Indonesia's national sectors.",
+      "memoryHook": "Global shares: energy supply leads.",
+      "hint": "Compare the supplied sector percentages, not the countries' per-capita emissions.",
+      "reviewNotes": [
+        "Historical policy references are not a statement of current Indonesian commitments; accounting boundaries matter."
+      ],
+      "referenceIds": [
+        "paper-2025-a",
+        "ipcc-spm"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q03",
+      "sourceQuestionNumber": 3,
+      "sourcePage": 2,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "foundations",
+      "topics": [
+        "commons",
+        "governance"
+      ],
+      "stem": "Which example best illustrates successful governance of a commons, rather than unregulated open access?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A global atmosphere with no emissions regulation.",
+          "explanation": "Unregulated access does not provide the governance described."
+        },
+        {
+          "id": "b",
+          "text": "High-seas fishing with unlimited catch.",
+          "explanation": "Unlimited extraction risks depletion."
+        },
+        {
+          "id": "c",
+          "text": "A Maine, USA lobster fishery with local rules for sustainable harvesting.",
+          "explanation": "Community rules and co-management illustrate governed access."
+        },
+        {
+          "id": "d",
+          "text": "Open grazing land used by all herders without ownership or rules.",
+          "explanation": "The missing rules create the classic depletion risk."
+        },
+        {
+          "id": "e",
+          "text": "A river used by industries without wastewater treatment.",
+          "explanation": "This illustrates an unmanaged pollution problem."
+        }
+      ],
+      "answerOptionId": "c",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "A commons can have access rules, monitoring, and collective governance. Shared ownership is not equivalent to an absence of rules.",
+      "memoryHook": "Commons plus rules is not open access.",
+      "hint": "Find the example with enforceable community management.",
+      "reviewNotes": [
+        "The PDF says 'Maine, UK'. This adaptation corrects the location to Maine, USA; it does not claim every present-day fishery outcome is sustainable."
+      ],
+      "referenceIds": [
+        "paper-2025-a",
+        "maine"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q04",
+      "sourceQuestionNumber": 4,
+      "sourcePage": 2,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "foundations",
+      "topics": [
+        "planetary boundaries",
+        "ozone"
+      ],
+      "stem": "In the historical six-of-nine planetary-boundaries assessment reflected in the paper (2023), which listed boundary was not transgressed globally?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Climate change.",
+          "explanation": "This was among the transgressed boundaries in that assessment."
+        },
+        {
+          "id": "b",
+          "text": "Biosphere integrity.",
+          "explanation": "This was among the transgressed boundaries."
+        },
+        {
+          "id": "c",
+          "text": "Biogeochemical flows: nitrogen and phosphorus.",
+          "explanation": "These flows were beyond the boundary."
+        },
+        {
+          "id": "d",
+          "text": "Stratospheric ozone depletion.",
+          "explanation": "This was not transgressed globally in the cited historical assessment."
+        },
+        {
+          "id": "e",
+          "text": "Land-system change.",
+          "explanation": "This was among the transgressed boundaries."
+        }
+      ],
+      "answerOptionId": "d",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "The historical assessment placed stratospheric ozone within its global boundary. Date the assessment explicitly: the question is not asking for a live boundary count.",
+      "memoryHook": "Ozone recovery is the historical exception here.",
+      "hint": "Think about the boundary affected by controls on ozone-depleting substances.",
+      "reviewNotes": [
+        "The phrase 'six boundaries' is pinned to 2023; do not display it as today's count."
+      ],
+      "referenceIds": [
+        "paper-2025-a",
+        "boundaries-2023"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q05",
+      "sourceQuestionNumber": 5,
+      "sourcePage": 2,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "foundations",
+      "topics": [
+        "IPAT",
+        "decoupling"
+      ],
+      "stem": "Under I = P × A × T, population rises 35% and affluence becomes four times its initial level. To keep impact unchanged, by what factor must technology reduce impact intensity? Original options follow.",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 times.",
+          "explanation": "This would not offset the combined 5.4-fold P × A change."
+        },
+        {
+          "id": "b",
+          "text": "3 times.",
+          "explanation": "This is below the required reduction factor."
+        },
+        {
+          "id": "c",
+          "text": "4 times.",
+          "explanation": "This offsets affluence but not the population increase."
+        },
+        {
+          "id": "d",
+          "text": "5 times.",
+          "explanation": "This is not the exact result and leaves impact above the baseline."
+        },
+        {
+          "id": "e",
+          "text": "6 times.",
+          "explanation": "This would exceed the minimum exact reduction, but the stem gives no whole-number rounding instruction."
+        }
+      ],
+      "answerOptionId": null,
+      "gradingStatus": "blocked",
+      "answerBasis": "Unresolved source issue; no scored key.",
+      "explanation": "P × A rises by 1.35 × 4 = 5.4. Therefore T_new/T_old = 1/5.4, about 0.1852: an 81.48% reduction in impact intensity. None of the offered options is exactly 5.4.",
+      "memoryHook": "Multiply P and A; make T their reciprocal.",
+      "hint": "A 35% rise means multiply by 1.35, not by 0.35.",
+      "reviewNotes": [
+        "Blocking: exact answer 5.4 is absent. If a lecturer explicitly requires a whole-number factor that is sufficient, 6 would qualify; no such rule is supplied. Do not force an answer."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q06",
+      "sourceQuestionNumber": 6,
+      "sourcePage": 3,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "foundations",
+      "topics": [
+        "ecological footprint",
+        "biocapacity"
+      ],
+      "stem": "The paper gives Indonesia's ecological footprint as 1.8 gha/person and national biocapacity as 1.2 gha/person, a deficit of 0.6. How many Earths would be needed if everyone lived like Indonesians? Original options follow.",
+      "options": [
+        {
+          "id": "a",
+          "text": "0.7 Earths.",
+          "explanation": "Cannot establish this from the missing global denominator."
+        },
+        {
+          "id": "b",
+          "text": "1.0 Earth.",
+          "explanation": "Cannot establish this from national biocapacity alone."
+        },
+        {
+          "id": "c",
+          "text": "1.5 Earths.",
+          "explanation": "1.8/1.2 = 1.5 is a country-biocapacity ratio, not the requested global Earths ratio."
+        },
+        {
+          "id": "d",
+          "text": "1.8 Earths.",
+          "explanation": "A footprint in gha is not directly a number of Earths."
+        },
+        {
+          "id": "e",
+          "text": "2.4 Earths.",
+          "explanation": "The supplied values do not establish this result."
+        }
+      ],
+      "answerOptionId": null,
+      "gradingStatus": "blocked",
+      "answerBasis": "Unresolved source issue; no scored key.",
+      "explanation": "Earths required = the country's footprint per person divided by global biocapacity per person for a consistent dataset/year. The question supplies national, not global, biocapacity, so it lacks the required denominator.",
+      "memoryHook": "Earths use global capacity; countries use national capacity.",
+      "hint": "Check whose biocapacity is in the denominator.",
+      "reviewNotes": [
+        "Blocking: global biocapacity per person and consistent source year are missing. Do not teach 1.8/1.2 as the global Earths calculation."
+      ],
+      "referenceIds": [
+        "paper-2025-a",
+        "footprint-method"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q07",
+      "sourceQuestionNumber": 7,
+      "sourcePage": 3,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "foundations",
+      "topics": [
+        "IPAT",
+        "technology",
+        "population",
+        "causation"
+      ],
+      "stem": "The paper attributes to Barry Commoner an argument that technology can matter more for environmental impact than population size. Which comparison most strongly supports this? Original comparisons are retained.",
+      "options": [
+        {
+          "id": "a",
+          "text": "China and India: similar populations, CO2/person 8.05 versus 1.93 tonnes.",
+          "explanation": "Similar population with different per-capita emissions is suggestive, but technology is not isolated."
+        },
+        {
+          "id": "b",
+          "text": "Canada and Indonesia: Indonesia has about seven times the population, CO2/person 14.30 versus 1.93 tonnes.",
+          "explanation": "The contrast challenges a simple population-only explanation but mixes per-capita and total effects."
+        },
+        {
+          "id": "c",
+          "text": "Germany and France: similar GDP/person (US$51,204/US$43,659), CO2/person 8.09/4.74 tonnes.",
+          "explanation": "The emissions figures are not especially similar and do not isolate technology."
+        },
+        {
+          "id": "d",
+          "text": "Bangladesh and Kenya: developing countries with low emissions.",
+          "explanation": "This does not clearly distinguish the proposed drivers."
+        },
+        {
+          "id": "e",
+          "text": "Japan and South Korea: developed Asian countries with advanced technology.",
+          "explanation": "This alone gives no measured impact contrast."
+        }
+      ],
+      "answerOptionId": null,
+      "gradingStatus": "blocked",
+      "answerBasis": "Unresolved source issue; no scored key.",
+      "explanation": "Both A and B can challenge a population-only account. Neither identifies technology's causal effect independently of affluence, energy mix, trade, and other factors. An official course key is needed to settle the intended comparison.",
+      "memoryHook": "A comparison is not a controlled causal test.",
+      "hint": "Ask which variables are actually controlled and whether totals or per-capita figures are being compared.",
+      "reviewNotes": [
+        "Blocking: A and B are both arguable; the paper's theoretical label and causal attribution also need checking against lecture material."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q18",
+      "sourceQuestionNumber": 18,
+      "sourcePage": 4,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "climate",
+      "topics": [
+        "sustainable cooling",
+        "adaptation",
+        "mitigation"
+      ],
+      "stem": "Urban heat increases cooling demand. What does sustainable cooling mean?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maximize air-conditioning use for maximum comfort.",
+          "explanation": "This ignores energy demand, refrigerants, and equitable access."
+        },
+        {
+          "id": "b",
+          "text": "Never use air conditioning.",
+          "explanation": "This can ignore important health and adaptation needs."
+        },
+        {
+          "id": "c",
+          "text": "Combine energy conservation, low-GWP refrigerants, renewables, equitable access, and circular practices.",
+          "explanation": "This integrates cooling access with lower environmental impact."
+        },
+        {
+          "id": "d",
+          "text": "Use only traditional fans.",
+          "explanation": "Fans alone do not cover all cooling needs."
+        },
+        {
+          "id": "e",
+          "text": "Reserve air conditioning for elites.",
+          "explanation": "This violates equitable access."
+        }
+      ],
+      "answerOptionId": "c",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Sustainable cooling combines demand reduction and efficient systems with lower-impact refrigerants, cleaner energy, access, and circular management.",
+      "memoryHook": "Cool people, not the climate.",
+      "hint": "Look for an integrated package rather than an absolute ban or unlimited use.",
+      "reviewNotes": [],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q19",
+      "sourceQuestionNumber": 19,
+      "sourcePage": 4,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "climate",
+      "topics": [
+        "CCU",
+        "CCS",
+        "carbon capture"
+      ],
+      "stem": "What is the key distinction between carbon capture and utilization (CCU) and carbon capture and storage (CCS)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "CCU stores CO2 geologically; CCS uses it in production.",
+          "explanation": "This reverses the definitions."
+        },
+        {
+          "id": "b",
+          "text": "CCU uses captured CO2 in products/processes; CCS stores it in geological formations.",
+          "explanation": "Utilization and storage are distinct endpoints."
+        },
+        {
+          "id": "c",
+          "text": "They are identical technologies with different names.",
+          "explanation": "Their handling of captured carbon differs."
+        },
+        {
+          "id": "d",
+          "text": "CCU is only for energy and CCS is for every sector.",
+          "explanation": "That is not the defining distinction."
+        },
+        {
+          "id": "e",
+          "text": "CCU is always more expensive and less effective.",
+          "explanation": "Cost and effectiveness depend on the application."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "CCU uses captured CO2; CCS is designed for long-term geological storage. Use in a short-lived fuel or product is not automatically permanent removal.",
+      "memoryHook": "U = use; S = storage.",
+      "hint": "Focus on the destination and lifetime of the captured carbon.",
+      "reviewNotes": [],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q20",
+      "sourceQuestionNumber": 20,
+      "sourcePage": 4,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "climate",
+      "topics": [
+        "AFOLU",
+        "forest restoration",
+        "mitigation potential"
+      ],
+      "stem": "Among the AFOLU options listed in the paper, which is intended to have the highest mitigation potential?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bioenergy in agricultural practices.",
+          "explanation": "A single universally lower ranking cannot be assumed without common scenario/cost assumptions."
+        },
+        {
+          "id": "b",
+          "text": "Soil-carbon management.",
+          "explanation": "This is important, but the paper appears to favor its forest option."
+        },
+        {
+          "id": "c",
+          "text": "Afforestation, reforestation, and forest-ecosystem restoration.",
+          "explanation": "This is the likely intended best option among the paper's alternatives."
+        },
+        {
+          "id": "d",
+          "text": "Agroforestry for food production.",
+          "explanation": "This has benefits, but overlaps other land-sector measures."
+        },
+        {
+          "id": "e",
+          "text": "Reducing livestock methane.",
+          "explanation": "This is valuable but is not the likely intended course answer."
+        }
+      ],
+      "answerOptionId": "c",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "The forest-restoration option is the likely intended key. Do not generalize the ranking: mitigation potential depends on measure boundaries, costs, land constraints, and time horizon.",
+      "memoryHook": "Forest measures are major, but rankings need a basis.",
+      "hint": "Compare the offered categories while keeping the question's course context.",
+      "reviewNotes": [
+        "Provisional ranking: the broad forest/other-ecosystem category in IPCC includes conservation and avoided deforestation; it is not identical to option C alone."
+      ],
+      "referenceIds": [
+        "paper-2025-a",
+        "ipcc-afolu"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q21",
+      "sourceQuestionNumber": 21,
+      "sourcePage": 5,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "climate",
+      "topics": [
+        "blue carbon",
+        "mangroves"
+      ],
+      "stem": "Which Indonesian ecosystem is a coastal blue-carbon ecosystem with high carbon storage/sequestration potential per hectare?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Amazon rainforest.",
+          "explanation": "This is not an Indonesian coastal ecosystem."
+        },
+        {
+          "id": "b",
+          "text": "Savanna.",
+          "explanation": "This is not the coastal blue-carbon category."
+        },
+        {
+          "id": "c",
+          "text": "Mangrove forests and coastal ecosystems.",
+          "explanation": "Mangroves are a central blue-carbon ecosystem."
+        },
+        {
+          "id": "d",
+          "text": "Oil-palm plantations.",
+          "explanation": "These are not the blue-carbon ecosystem meant here."
+        },
+        {
+          "id": "e",
+          "text": "Urban parks.",
+          "explanation": "These are not the coastal blue-carbon category."
+        }
+      ],
+      "answerOptionId": "c",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Mangroves are coastal blue-carbon ecosystems. Distinguish a stored carbon stock from the annual sequestration rate; the two are not interchangeable quantities.",
+      "memoryHook": "Blue carbon lives along coasts.",
+      "hint": "Think mangroves, tidal marshes, and seagrasses.",
+      "reviewNotes": [
+        "'Very high' is qualitative in the paper; no universal numeric rate is supplied."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q22",
+      "sourceQuestionNumber": 22,
+      "sourcePage": 5,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "systems",
+      "topics": [
+        "nexus",
+        "climate change"
+      ],
+      "stem": "Which reason for a food–energy–water nexus approach directly concerns dependence on climate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Food, energy, and water are traded globally.",
+          "explanation": "This concerns trade connections."
+        },
+        {
+          "id": "b",
+          "text": "Climate change affects the availability and quality of all three.",
+          "explanation": "This is the explicit climate-dependence argument."
+        },
+        {
+          "id": "c",
+          "text": "Highly regulated markets require careful policy.",
+          "explanation": "This concerns governance and markets."
+        },
+        {
+          "id": "d",
+          "text": "Scarcity, pollution, and unequal access need management.",
+          "explanation": "These are important risks but not the specific climate link requested."
+        },
+        {
+          "id": "e",
+          "text": "Billions of people lack adequate access.",
+          "explanation": "This concerns access and equity."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "The nexus accounts for interactions between food, energy, and water, including the way climate changes affect all three.",
+      "memoryHook": "One climate, three connected systems.",
+      "hint": "Choose the option that explicitly links climate with all three resources.",
+      "reviewNotes": [],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q23",
+      "sourceQuestionNumber": 23,
+      "sourcePage": 5,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "systems",
+      "topics": [
+        "nexus",
+        "exogenous drivers"
+      ],
+      "stem": "Under the system boundary used in the paper, which pair is an exogenous driver of the food–energy–water nexus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Resource governance.",
+          "explanation": "The paper treats this as an internal system factor."
+        },
+        {
+          "id": "b",
+          "text": "Direct interaction between food production and water consumption.",
+          "explanation": "This is an internal nexus interaction."
+        },
+        {
+          "id": "c",
+          "text": "Energy used in food processing.",
+          "explanation": "This is a direct cross-sector interaction."
+        },
+        {
+          "id": "d",
+          "text": "Rainfall and currency conversion/exchange rates.",
+          "explanation": "The paper treats climate and external economic conditions as outside drivers."
+        },
+        {
+          "id": "e",
+          "text": "Agricultural irrigation systems.",
+          "explanation": "This is part of the managed nexus system."
+        }
+      ],
+      "answerOptionId": "d",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Exogenous means outside the selected model boundary. Rainfall and exchange-rate conditions are the intended examples; the boundary must be stated.",
+      "memoryHook": "Exogenous = outside your model boundary.",
+      "hint": "Ask what drives the system from outside rather than being an interaction inside it.",
+      "reviewNotes": [
+        "A factor's endogenous/exogenous status depends on the model boundary; it is not an intrinsic property."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q24",
+      "sourceQuestionNumber": 24,
+      "sourcePage": 6,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "systems",
+      "topics": [
+        "nexus",
+        "conservation agriculture",
+        "trade-offs"
+      ],
+      "stem": "For the paper's conservation-agriculture nexus example, which option describes an energy-security effect?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Better soil-water retention.",
+          "explanation": "This is primarily a water effect."
+        },
+        {
+          "id": "b",
+          "text": "Machinery use may increase fuel consumption.",
+          "explanation": "This is the only option directly describing an energy-demand effect."
+        },
+        {
+          "id": "c",
+          "text": "More food and greater food diversity.",
+          "explanation": "This is primarily a food outcome."
+        },
+        {
+          "id": "d",
+          "text": "Less deforestation increases water retention.",
+          "explanation": "The stated outcome concerns water."
+        },
+        {
+          "id": "e",
+          "text": "A change in cooking habits.",
+          "explanation": "This is not the specific agricultural-machinery effect in the offered example."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "B directly concerns fuel demand and is the likely intended course answer. It is a possible trade-off, not a universal claim that conservation agriculture increases energy use.",
+      "memoryHook": "Identify which resource the effect measures.",
+      "hint": "Energy effects mention fuels, electricity, or energy demand.",
+      "reviewNotes": [
+        "Conservation agriculture can also reduce tillage fuel use. The original intervention example/lecture table is needed to verify its net effect."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q25",
+      "sourceQuestionNumber": 25,
+      "sourcePage": 6,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "systems",
+      "topics": [
+        "SDGs",
+        "synergies"
+      ],
+      "stem": "Among these pairs, which is the strongest environmental synergy intended by the paper's SDG-interlinkages question?",
+      "options": [
+        {
+          "id": "a",
+          "text": "SDG 1 No Poverty and SDG 8 Decent Work.",
+          "explanation": "This pair primarily emphasizes socioeconomic outcomes."
+        },
+        {
+          "id": "b",
+          "text": "SDG 7 Clean Energy and SDG 13 Climate Action.",
+          "explanation": "Cleaner energy can directly support climate mitigation."
+        },
+        {
+          "id": "c",
+          "text": "SDG 4 Education and SDG 5 Gender Equality.",
+          "explanation": "This is an important social synergy, not the offered environmental pair."
+        },
+        {
+          "id": "d",
+          "text": "SDG 9 Industry/Innovation and SDG 17 Partnerships.",
+          "explanation": "This is not the clearest direct environmental linkage among the options."
+        },
+        {
+          "id": "e",
+          "text": "SDG 11 Sustainable Cities and SDG 16 Peace/Justice.",
+          "explanation": "This is less directly environmental than the clean-energy/climate pair."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Clean energy and climate action are the clearest environmental synergy among these choices. The exact 'strongest' ranking is specific to the paper's cited framework.",
+      "memoryHook": "Clean energy can support climate action.",
+      "hint": "Choose the pair with the most direct energy-to-emissions pathway.",
+      "reviewNotes": [
+        "The exact Boar et al. (2021) ranking/table was not supplied or independently verified; retain a provisional key."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q26",
+      "sourceQuestionNumber": 26,
+      "sourcePage": 6,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "systems",
+      "topics": [
+        "SDGs",
+        "trade-offs",
+        "coal mining"
+      ],
+      "stem": "In the paper's four-category activity framework, how is coal mining best classified?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Synergy: core activity with predominantly positive effects.",
+          "explanation": "This ignores the substantial negative sustainability impacts."
+        },
+        {
+          "id": "b",
+          "text": "Trade-off: mixed activity with balanced positive and negative effects.",
+          "explanation": "The paper's intended classification is more negative than a balanced case."
+        },
+        {
+          "id": "c",
+          "text": "Trade-off: opposing activity with predominantly negative SDG effects.",
+          "explanation": "This matches the intended classification."
+        },
+        {
+          "id": "d",
+          "text": "Trade-off: peripheral activity with no significant effects.",
+          "explanation": "Coal mining has significant effects."
+        },
+        {
+          "id": "e",
+          "text": "An activity supporting SDG 7 Clean Energy.",
+          "explanation": "Coal extraction is not a clean-energy classification."
+        }
+      ],
+      "answerOptionId": "c",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "The intended framework places coal mining in the opposing-activity category because its harms outweigh benefits in that classification.",
+      "memoryHook": "Economic benefits can coexist with a net-negative SDG classification.",
+      "hint": "Choose the framework category reflecting dominant negative effects.",
+      "reviewNotes": [
+        "This is the paper's classification framework, not a universal numerical net-benefit calculation."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q27",
+      "sourceQuestionNumber": 27,
+      "sourcePage": 6,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "systems",
+      "topics": [
+        "SDGs",
+        "spillovers",
+        "marine biodiversity"
+      ],
+      "stem": "Which label in the paper's international-spillover indicators represents a negative spillover on SDG 14 Life Below Water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exports of hazardous pesticides.",
+          "explanation": "This is not the marine-import biodiversity label requested."
+        },
+        {
+          "id": "b",
+          "text": "Scarce water embodied in imports.",
+          "explanation": "This primarily represents water-resource pressure."
+        },
+        {
+          "id": "c",
+          "text": "SO2 emissions embodied in imports.",
+          "explanation": "This concerns air-pollution spillovers."
+        },
+        {
+          "id": "d",
+          "text": "Marine-biodiversity impacts embodied in imports.",
+          "explanation": "This is the marine ecosystem spillover indicated."
+        },
+        {
+          "id": "e",
+          "text": "Exports of conventional weapons.",
+          "explanation": "This primarily concerns peace/security spillovers."
+        }
+      ],
+      "answerOptionId": "d",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Consumption in an importing country can place biodiversity pressure on marine ecosystems elsewhere. The negative indicator refers to impacts/threats embodied in trade, not to importing biodiversity as a benefit.",
+      "memoryHook": "Imports can export ecological pressure.",
+      "hint": "Match the spillover's environmental domain to SDG 14.",
+      "reviewNotes": [
+        "The original option literally labels 'marine biodiversity in imports'. This English adaptation clarifies the intended negative impact; the exact lecture indicator/table should still be checked."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q28",
+      "sourceQuestionNumber": 28,
+      "sourcePage": 7,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "systems",
+      "topics": [
+        "responsible innovation",
+        "inclusion"
+      ],
+      "stem": "Which element of Stilgoe et al.'s responsible-innovation framework centers on involving stakeholders to understand possible impacts?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anticipation.",
+          "explanation": "This focuses on exploring future possibilities and consequences."
+        },
+        {
+          "id": "b",
+          "text": "Reflexivity.",
+          "explanation": "This examines assumptions, purposes, and limitations."
+        },
+        {
+          "id": "c",
+          "text": "Inclusion.",
+          "explanation": "This centers on participation and stakeholder perspectives."
+        },
+        {
+          "id": "d",
+          "text": "Responsiveness.",
+          "explanation": "This concerns changing direction in response to learning."
+        },
+        {
+          "id": "e",
+          "text": "Knowledge management.",
+          "explanation": "This is not one of the four named dimensions."
+        }
+      ],
+      "answerOptionId": "c",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Stakeholder involvement points to inclusion. The four dimensions are anticipation, reflexivity, inclusion, and responsiveness; 'long-term impacts' alone would instead suggest anticipation.",
+      "memoryHook": "People at the table = inclusion.",
+      "hint": "The distinguishing phrase is stakeholder involvement.",
+      "reviewNotes": [
+        "The original wording combines future impacts and stakeholder involvement; inclusion is selected because involvement is the differentiating cue."
+      ],
+      "referenceIds": [
+        "paper-2025-a",
+        "responsible-innovation"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q29",
+      "sourceQuestionNumber": 29,
+      "sourcePage": 7,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "systems",
+      "topics": [
+        "plastic recycling",
+        "circular economy",
+        "economics"
+      ],
+      "stem": "Why can plastic recycling struggle to compete on cost, according to the paper?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plastic-recycling technology has not been invented.",
+          "explanation": "Recycling technologies exist."
+        },
+        {
+          "id": "b",
+          "text": "People never sort plastic waste.",
+          "explanation": "Sorting matters, but this absolute claim is not the economic mechanism asked."
+        },
+        {
+          "id": "c",
+          "text": "Virgin petrochemical plastic can be cheaper, depending partly on oil/feedstock prices.",
+          "explanation": "This is the paper's intended cost-competitiveness mechanism."
+        },
+        {
+          "id": "d",
+          "text": "No plastic can be recycled.",
+          "explanation": "Some plastics and streams are recyclable."
+        },
+        {
+          "id": "e",
+          "text": "All countries have banned new plastic production.",
+          "explanation": "This is not true and does not explain the mechanism."
+        }
+      ],
+      "answerOptionId": "c",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Recycled plastic may struggle against low-cost virgin material. Collection, sorting, contamination, quality, energy, and policy also affect competitiveness; the result varies by polymer and market.",
+      "memoryHook": "Recycling must compete with virgin production.",
+      "hint": "Look for the relative-cost explanation, not an absolute impossibility.",
+      "reviewNotes": [
+        "Do not display the question as a universal current claim that all recycling is uneconomic."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q30",
+      "sourceQuestionNumber": 30,
+      "sourcePage": 7,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "foundations",
+      "topics": [
+        "EKC",
+        "income",
+        "environmental degradation"
+      ],
+      "stem": "What relationship does the Environmental Kuznets Curve hypothesis describe?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Population and CO2 emissions.",
+          "explanation": "These are not the usual EKC axes."
+        },
+        {
+          "id": "b",
+          "text": "Income per person and an environmental-impact/degradation indicator.",
+          "explanation": "This is the intended income–environment relationship."
+        },
+        {
+          "id": "c",
+          "text": "Technology and biodiversity.",
+          "explanation": "This is not the standard EKC relationship."
+        },
+        {
+          "id": "d",
+          "text": "Renewable energy and economic growth.",
+          "explanation": "This is a different relationship."
+        },
+        {
+          "id": "e",
+          "text": "Urbanization and water quality.",
+          "explanation": "This is not the standard EKC definition."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "The EKC hypothesis proposes an inverted-U relationship between income per person and some environmental degradation indicators. It is a hypothesis, not a universal law for every environmental measure.",
+      "memoryHook": "EKC: income versus environmental pressure.",
+      "hint": "Think income on the horizontal axis, not population.",
+      "reviewNotes": [
+        "The source mentions material/environmental footprint; an inverted-U is not established for every footprint measure."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q31",
+      "sourceQuestionNumber": 31,
+      "sourcePage": 7,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "foundations",
+      "topics": [
+        "carrying capacity",
+        "logistic growth"
+      ],
+      "stem": "Which population-growth curve approaches a habitat's carrying capacity?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exponential J-shaped growth.",
+          "explanation": "This lacks a carrying-capacity ceiling."
+        },
+        {
+          "id": "b",
+          "text": "Logistic S-shaped growth.",
+          "explanation": "Growth slows as the population approaches carrying capacity."
+        },
+        {
+          "id": "c",
+          "text": "Linear growth.",
+          "explanation": "A constant increment does not describe logistic saturation."
+        },
+        {
+          "id": "d",
+          "text": "Parabolic growth.",
+          "explanation": "This is not the standard carrying-capacity model."
+        },
+        {
+          "id": "e",
+          "text": "Vertical growth.",
+          "explanation": "This is not a realistic time trajectory."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "In a simple logistic model, limited resources reduce growth as population approaches carrying capacity K.",
+      "memoryHook": "S slows near K.",
+      "hint": "Choose the curve that levels off rather than growing without bound.",
+      "reviewNotes": [],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q32",
+      "sourceQuestionNumber": 32,
+      "sourcePage": 8,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "foundations",
+      "topics": [
+        "consumption-based emissions",
+        "population"
+      ],
+      "stem": "Using only the historical figures printed in the paper, which country illustrates especially high consumption-related pressure despite having fewer people than China or India?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bangladesh: 143 million; 0.38 t CO2/person.",
+          "explanation": "Its listed per-person emissions are low."
+        },
+        {
+          "id": "b",
+          "text": "Kenya: 32 million; 0.81 t CO2/person.",
+          "explanation": "Its listed per-person emissions are low."
+        },
+        {
+          "id": "c",
+          "text": "United States: 288 million; 23.92 t CO2/person.",
+          "explanation": "It has the largest listed per-person value."
+        },
+        {
+          "id": "d",
+          "text": "China: about 1,294 million; 3.91 t CO2/person.",
+          "explanation": "Its listed per-person value is much lower than the US value."
+        },
+        {
+          "id": "e",
+          "text": "India: over 1 billion; 1.93 t CO2/person.",
+          "explanation": "Its listed per-person value is much lower than the US value."
+        }
+      ],
+      "answerOptionId": "c",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "The US has the highest per-capita figure in the supplied comparison. This illustrates consumption intensity, not a complete scientific definition of overpopulation.",
+      "memoryHook": "Headcount alone misses consumption per person.",
+      "hint": "Compare the printed per-person values.",
+      "reviewNotes": [
+        "Historical population/emissions values are preserved as question context, not current data. 'Relatively small' is relative to China/India, not a claim that the US is a small-population country."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q33",
+      "sourceQuestionNumber": 33,
+      "sourcePage": 8,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "consumption",
+      "topics": [
+        "Jevons paradox",
+        "backfire",
+        "rebound effect"
+      ],
+      "stem": "Which condition describes backfire after an efficiency improvement? The paper's original RE labels and wording are retained below.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Efficiency improves and consumption falls proportionally (RE = 1).",
+          "explanation": "Under the conventional rebound definition, proportional engineering savings would mean zero rebound, not RE = 1."
+        },
+        {
+          "id": "b",
+          "text": "Efficiency improves and consumption increases slightly (RE > 1).",
+          "explanation": "RE > 1 is consistent with conventional fractional backfire, but the paper does not define RE or the baseline for 'slightly'."
+        },
+        {
+          "id": "c",
+          "text": "Efficiency improves and consumption is excessive (RE < 1).",
+          "explanation": "Under the conventional fractional definition, RE < 1 is not backfire."
+        },
+        {
+          "id": "d",
+          "text": "Efficiency improves and consumption does not change.",
+          "explanation": "This corresponds to full rebound under the conventional definition."
+        },
+        {
+          "id": "e",
+          "text": "Efficiency improves and resource savings are maximized.",
+          "explanation": "This does not describe backfire."
+        }
+      ],
+      "answerOptionId": null,
+      "gradingStatus": "blocked",
+      "answerBasis": "Unresolved source issue; no scored key.",
+      "explanation": "Under a conventional fractional definition, R = 1 - actual savings/engineering-expected savings. Backfire means R > 1, or greater than 100%, and total use exceeds its pre-improvement baseline. The source options mix unclear prose and undefined notation, so no option is scored.",
+      "memoryHook": "Backfire = more total use than before.",
+      "hint": "Define rebound and its baseline before comparing symbols.",
+      "reviewNotes": [
+        "Blocking: the original RE definition is absent and multiple labels/prose conflict. B is plausible under the conventional definition, but an official course definition is required before grading."
+      ],
+      "referenceIds": [
+        "paper-2025-a",
+        "rebound-paper"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q34",
+      "sourceQuestionNumber": 34,
+      "sourcePage": 8,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "consumption",
+      "topics": [
+        "consumption-based emissions",
+        "trade"
+      ],
+      "stem": "How are consumption-based emissions related to production-based emissions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They count only motor vehicles.",
+          "explanation": "They can cover emissions across many sectors."
+        },
+        {
+          "id": "b",
+          "text": "Production emissions minus emissions embodied in exports plus those embodied in imports.",
+          "explanation": "This reallocates emissions to final consumption."
+        },
+        {
+          "id": "c",
+          "text": "They count only power stations.",
+          "explanation": "They are not restricted to electricity."
+        },
+        {
+          "id": "d",
+          "text": "They exclude all transport emissions.",
+          "explanation": "Transport is not categorically excluded."
+        },
+        {
+          "id": "e",
+          "text": "They are always identical to production emissions.",
+          "explanation": "Trade can make them differ."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Consumption accounting attributes emissions through trade to the consumers of goods and services rather than only where production occurs.",
+      "memoryHook": "Consumption = production - exports + imports.",
+      "hint": "Follow the final demand, including the emissions embodied in trade.",
+      "reviewNotes": [],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q35",
+      "sourceQuestionNumber": 35,
+      "sourcePage": 8,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "consumption",
+      "topics": [
+        "overconsumption",
+        "hyperconsumption",
+        "eutrophication"
+      ],
+      "stem": "Which example best matches the paper's distinction between overconsumption and trend/status-driven hyperconsumption?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Buying the newest smartphone every year to stay current.",
+          "explanation": "This is the paper's trend/status-driven category."
+        },
+        {
+          "id": "b",
+          "text": "Buying new fast-fashion items every month to follow trends.",
+          "explanation": "This is a hyperconsumption example in the intended distinction."
+        },
+        {
+          "id": "c",
+          "text": "Applying more fertilizer than crops need, causing eutrophication.",
+          "explanation": "This directly exceeds functional need and ecological capacity."
+        },
+        {
+          "id": "d",
+          "text": "Replacing low-quality fashionable furniture every year.",
+          "explanation": "This fits the paper's repeated replacement/trend category."
+        },
+        {
+          "id": "e",
+          "text": "Buying gadgets because of peers and social status.",
+          "explanation": "This is explicitly status-driven consumption."
+        }
+      ],
+      "answerOptionId": "c",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Excess fertilizer is the intended overconsumption example: use exceeds agronomic need and causes ecological damage. The terms can overlap outside the lecture's classification.",
+      "memoryHook": "Excess input beyond need: fertilizer runoff.",
+      "hint": "Look for excess functional use rather than buying for fashion or status.",
+      "reviewNotes": [
+        "Overconsumption and hyperconsumption are not always mutually exclusive; this is the course's intended contrast."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q36",
+      "sourceQuestionNumber": 36,
+      "sourcePage": 9,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "consumption",
+      "topics": [
+        "consumption",
+        "health",
+        "course definitions"
+      ],
+      "stem": "In the paper's consumption framework, which example is intended to link compulsive/excessive consumption with a negative individual-health outcome?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Buying many books for a personal collection.",
+          "explanation": "The option supplies no negative health outcome."
+        },
+        {
+          "id": "b",
+          "text": "The paper's example of excessive food consumption associated with obesity.",
+          "explanation": "This is the intended course example, but body size does not diagnose addiction."
+        },
+        {
+          "id": "c",
+          "text": "Collecting rare stamps.",
+          "explanation": "The option supplies no health impairment."
+        },
+        {
+          "id": "d",
+          "text": "Subscribing to many streaming services.",
+          "explanation": "This does not by itself establish the requested health outcome."
+        },
+        {
+          "id": "e",
+          "text": "Buying many ornamental plants.",
+          "explanation": "This does not by itself establish a negative health outcome."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "B is the likely intended match to the source framework. Do not infer compulsive eating or addiction from appearance or weight; such diagnoses require more information.",
+      "memoryHook": "Identify the stated outcome; avoid diagnosing a person.",
+      "hint": "Which option explicitly mentions an individual-health outcome?",
+      "reviewNotes": [
+        "The adaptation removes an unsupported diagnostic implication. Preserve the educational mapping without using bodies or health as roast material."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q37",
+      "sourceQuestionNumber": 37,
+      "sourcePage": 9,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "consumption",
+      "topics": [
+        "food security",
+        "food sufficiency"
+      ],
+      "stem": "What does a shift from food sufficiency to food security emphasize?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Beyond production quantity to availability, access, utilization, and stability.",
+          "explanation": "These are the four dimensions intended in the question."
+        },
+        {
+          "id": "b",
+          "text": "Only a shift from traditional to modern farming.",
+          "explanation": "This is too narrow."
+        },
+        {
+          "id": "c",
+          "text": "Only a shift from extensification to intensification.",
+          "explanation": "This concerns production methods, not all food-security dimensions."
+        },
+        {
+          "id": "d",
+          "text": "Only a shift from imports to exports.",
+          "explanation": "Trade balance alone does not establish food security."
+        },
+        {
+          "id": "e",
+          "text": "Only a shift from plant to animal foods.",
+          "explanation": "This is not the definition."
+        }
+      ],
+      "answerOptionId": "a",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Enough food in aggregate does not guarantee that people can access and use it reliably. The course question emphasizes availability, access, utilization, and stability.",
+      "memoryHook": "Food security: available, accessible, usable, stable.",
+      "hint": "Production is only one part of whether people are reliably fed.",
+      "reviewNotes": [],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q38",
+      "sourceQuestionNumber": 38,
+      "sourcePage": 10,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "consumption",
+      "topics": [
+        "EKC",
+        "deforestation",
+        "spillovers"
+      ],
+      "stem": "The paper lists shares of tropical deforestation (Brazil 33.12%, Indonesia 13.94%, other Americas excluding Brazil/Mexico 20.85%). Do these figures fully support the claim that affluence and technology automatically reduce environmental impact?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, because developed countries never cause deforestation.",
+          "explanation": "This ignores imported and outsourced impacts."
+        },
+        {
+          "id": "b",
+          "text": "Not fully: developing-country deforestation can serve global consumption, including demand in rich countries.",
+          "explanation": "This recognizes trade-related displacement of pressure."
+        },
+        {
+          "id": "c",
+          "text": "Yes, because Brazil and Indonesia are major locations of deforestation.",
+          "explanation": "Location alone does not identify the consumers driving demand."
+        },
+        {
+          "id": "d",
+          "text": "The figures have no relevance to the argument.",
+          "explanation": "The location/consumption distinction is relevant."
+        },
+        {
+          "id": "e",
+          "text": "Yes, because only poor countries are responsible.",
+          "explanation": "Responsibility is not established by the location of forest loss alone."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Domestic environmental improvement can coexist with impacts embodied in imports. The listed shares alone are not a causal test of the EKC or a complete allocation of responsibility.",
+      "memoryHook": "A clean domestic chart can hide imported impacts.",
+      "hint": "Separate where damage happens from whose demand helps drive it.",
+      "reviewNotes": [
+        "Use the paper's figures only as historical context; they do not themselves quantify rich-country responsibility."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": {
+        "type": "conceptual-ekc",
+        "caption": "Conceptual illustration, not measured data.",
+        "xLabel": "Income per person",
+        "yLabel": "Environmental degradation",
+        "alt": "An inverted-U hypothesis: environmental degradation rises with income, peaks, then falls. This is not a universal measured relationship."
+      }
+    },
+    {
+      "id": "paper-2025-a-q39",
+      "sourceQuestionNumber": 39,
+      "sourcePage": 10,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "climate",
+      "topics": [
+        "adaptation",
+        "gray infrastructure",
+        "nature-based solutions"
+      ],
+      "stem": "Why can a suitable combination of gray coastal defenses and nature-based solutions such as mangroves improve resilience?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gray infrastructure alone is always sufficient.",
+          "explanation": "This excludes ecological and longer-term benefits without justification."
+        },
+        {
+          "id": "b",
+          "text": "Mangroves alone solve every coastal problem.",
+          "explanation": "Suitability and site conditions limit this absolute claim."
+        },
+        {
+          "id": "c",
+          "text": "Structural protection can complement longer-term ecological resilience and co-benefits.",
+          "explanation": "This describes complementary functions."
+        },
+        {
+          "id": "d",
+          "text": "Combining them is always cheaper.",
+          "explanation": "Costs depend on design and site."
+        },
+        {
+          "id": "e",
+          "text": "It is effective only because regulations require both.",
+          "explanation": "The functional complementarity matters independently of a mandate."
+        }
+      ],
+      "answerOptionId": "c",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Well-designed hybrid protection can combine structural functions with ecological benefits. Effectiveness depends on coastal dynamics, maintenance, and suitability; neither component guarantees protection alone.",
+      "memoryHook": "Hybrid protection combines different functions.",
+      "hint": "Choose the explanation based on complementarity, not an absolute guarantee.",
+      "reviewNotes": [],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q40",
+      "sourceQuestionNumber": 40,
+      "sourcePage": 11,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "consumption",
+      "topics": [
+        "Jevons paradox",
+        "efficiency"
+      ],
+      "stem": "Which option defines Jevons' historical paradox?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Using fuel more efficiently necessarily lowers total energy use.",
+          "explanation": "This is the expectation the paradox challenges."
+        },
+        {
+          "id": "b",
+          "text": "Improved efficiency can lead to greater total resource consumption.",
+          "explanation": "This captures the paradox's central mechanism."
+        },
+        {
+          "id": "c",
+          "text": "Consumption is fixed regardless of technology.",
+          "explanation": "This excludes the demand response."
+        },
+        {
+          "id": "d",
+          "text": "Appliance size is directly proportional to efficiency.",
+          "explanation": "This is not the definition."
+        },
+        {
+          "id": "e",
+          "text": "Efficiency mandates exist only to restrict growth.",
+          "explanation": "This is a political claim, not the definition."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Efficiency reduces resource input per unit of service, but lower effective costs and wider economic responses can increase demand. Jevons describes possible backfire, not an unavoidable result for every technology.",
+      "memoryHook": "Less per unit can still mean more in total.",
+      "hint": "Distinguish efficiency per service from aggregate consumption.",
+      "reviewNotes": [
+        "The adaptation uses 'can' to avoid teaching universal backfire."
+      ],
+      "referenceIds": [
+        "paper-2025-a",
+        "rebound-paper"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q41",
+      "sourceQuestionNumber": 41,
+      "sourcePage": 11,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "consumption",
+      "topics": [
+        "Jevons paradox",
+        "refrigerators",
+        "evidence"
+      ],
+      "stem": "In David Goldstein's 'Some Dilemma' refrigerator example, which size trend challenges the claim that efficiency caused refrigerator growth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Size kept increasing after 2000 and therefore proved the paradox.",
+          "explanation": "This is not the historical trend/argument requested."
+        },
+        {
+          "id": "b",
+          "text": "Size growth slowed when efficiency began improving after 1972.",
+          "explanation": "This is the specific counter-evidence Goldstein emphasizes."
+        },
+        {
+          "id": "c",
+          "text": "Side-by-side models alone caused all early growth.",
+          "explanation": "This is not his stated key comparison."
+        },
+        {
+          "id": "d",
+          "text": "Cooling capacity increased only in suburban homes.",
+          "explanation": "This restriction is not established in the supplied example."
+        },
+        {
+          "id": "e",
+          "text": "The fastest size increase happened while efficiency improved most rapidly.",
+          "explanation": "This reverses the comparison he reports."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Goldstein argues that size growth slowed after efficiency started improving. This challenges that particular causal account for refrigerators, not every rebound mechanism in every sector.",
+      "memoryHook": "Check when the size trend changed.",
+      "hint": "The important comparison is the timing of efficiency improvement versus size growth.",
+      "reviewNotes": [
+        "The source figure has no usable numeric time series. Reconstruct only a labeled qualitative illustration."
+      ],
+      "referenceIds": [
+        "paper-2025-a",
+        "goldstein"
+      ],
+      "diagram": {
+        "type": "qualitative-fridge-trends",
+        "caption": "Conceptual illustration, not measured data.",
+        "xLabel": "Time",
+        "yLabel": "Qualitative trend (separate scales)",
+        "alt": "A size line rises then flattens. An energy-use line first rises and later falls. No numeric values or common physical units are implied."
+      }
+    },
+    {
+      "id": "paper-2025-a-q42",
+      "sourceQuestionNumber": 42,
+      "sourcePage": 12,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "consumption",
+      "topics": [
+        "sufficiency",
+        "efficiency",
+        "author viewpoint"
+      ],
+      "stem": "According to the Alter–Semke discussion referenced by the paper, what do they agree is necessary beyond energy efficiency?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Conspicuous consumption is inevitable.",
+          "explanation": "This is not their point of agreement."
+        },
+        {
+          "id": "b",
+          "text": "Only stricter efficiency mandates.",
+          "explanation": "The question asks what lies beyond efficiency alone."
+        },
+        {
+          "id": "c",
+          "text": "Every rebound hypothesis is completely false.",
+          "explanation": "They disagree about backfire rather than agree on this claim."
+        },
+        {
+          "id": "d",
+          "text": "Sufficiency: asking how much is enough.",
+          "explanation": "This is the stated common ground."
+        },
+        {
+          "id": "e",
+          "text": "Every efficiency improvement inevitably backfires.",
+          "explanation": "This is not their shared position."
+        }
+      ],
+      "answerOptionId": "d",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "The shared point is sufficiency: considering demand and enoughness alongside efficiency. Their disagreement about backfire remains.",
+      "memoryHook": "Efficiency: how well? Sufficiency: how much?",
+      "hint": "Find the common ground, not either side's disputed rebound position.",
+      "reviewNotes": [
+        "This is reading comprehension of the authors' discussion."
+      ],
+      "referenceIds": [
+        "paper-2025-a",
+        "alter-fridges"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q43",
+      "sourceQuestionNumber": 43,
+      "sourcePage": 12,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "consumption",
+      "topics": [
+        "Jevons paradox",
+        "policy rhetoric",
+        "author viewpoint"
+      ],
+      "stem": "According to Zack Semke as cited in the paper, why does the Jevons-paradox narrative remain politically prominent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Experiments prove it is universal across all technologies.",
+          "explanation": "This is not the claim being reported."
+        },
+        {
+          "id": "b",
+          "text": "Only because its applications are often misunderstood.",
+          "explanation": "This does not capture the specific political explanation requested."
+        },
+        {
+          "id": "c",
+          "text": "It appeals to opponents of efficiency mandates, encouraging repeated storytelling.",
+          "explanation": "This is the attributed political explanation."
+        },
+        {
+          "id": "d",
+          "text": "Because it accurately explains every modern resource-use increase.",
+          "explanation": "This is broader than the argument and unsupported."
+        },
+        {
+          "id": "e",
+          "text": "Because the original book recently became popular with all environmentalists.",
+          "explanation": "This is not the attributed explanation."
+        }
+      ],
+      "answerOptionId": "c",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "The intended answer reports Semke's criticism of the political use of the narrative. It does not establish that all rebound research is politically motivated or invalid.",
+      "memoryHook": "Author's political explanation, not a universal verdict.",
+      "hint": "The stem asks what Semke argued, not what all researchers agree on.",
+      "reviewNotes": [
+        "Maintain attribution and distinguish commentary from empirical evidence."
+      ],
+      "referenceIds": [
+        "paper-2025-a",
+        "alter-fridges"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q44",
+      "sourceQuestionNumber": 44,
+      "sourcePage": 12,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "consumption",
+      "topics": [
+        "conspicuous consumption",
+        "author viewpoint"
+      ],
+      "stem": "In the Stephen Stuart perspective quoted by the paper, what term describes pursuing possessions to soothe the ego or replace weakening social connection?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The efficiency dilemma.",
+          "explanation": "This does not name the consumption pattern."
+        },
+        {
+          "id": "b",
+          "text": "Conspicuous consumption.",
+          "explanation": "This is the intended term for status-oriented possession/consumption."
+        },
+        {
+          "id": "c",
+          "text": "The rebound hypothesis.",
+          "explanation": "This concerns demand responses to efficiency."
+        },
+        {
+          "id": "d",
+          "text": "The suburban economic machine.",
+          "explanation": "This describes a wider system, not the requested consumption term."
+        },
+        {
+          "id": "e",
+          "text": "Energy-consumption escalation.",
+          "explanation": "This is an outcome description, not the requested term."
+        }
+      ],
+      "answerOptionId": "b",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "Conspicuous consumption concerns consumption with a display/status dimension. The paper's sociological interpretation is an attributed perspective, not a diagnosis of every purchase.",
+      "memoryHook": "Conspicuous = consumption for display.",
+      "hint": "Look for a status/ego-related consumption term.",
+      "reviewNotes": [
+        "The exact Stuart passage was not independently verified; this key is inferred from the source wording and options."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q45",
+      "sourceQuestionNumber": 45,
+      "sourcePage": 13,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "climate",
+      "topics": [
+        "upfront carbon",
+        "materials",
+        "bio-based construction"
+      ],
+      "stem": "In the material-revolution argument quoted by the paper, what alternatives can replace some carbon-intensive conventional construction materials?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aluminum, copper, and steel solely because they are recyclable.",
+          "explanation": "Recyclability alone does not make initial production low-carbon."
+        },
+        {
+          "id": "b",
+          "text": "More cement and clinker because capture will solve production emissions.",
+          "explanation": "This is not the proposed material substitution."
+        },
+        {
+          "id": "c",
+          "text": "Non-metallic minerals and concrete aggregates.",
+          "explanation": "This is not the bio-based alternative requested."
+        },
+        {
+          "id": "d",
+          "text": "Suitable bio-based materials such as timber and straw.",
+          "explanation": "This matches the paper's proposed alternative."
+        },
+        {
+          "id": "e",
+          "text": "Fossil fuels as the only materials able to support infrastructure.",
+          "explanation": "This is neither the proposed substitution nor a sound material classification."
+        }
+      ],
+      "answerOptionId": "d",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "The paper favors suitable bio-based materials. Actual climate performance depends on sourcing, land effects, durability, design, and end of life; stored carbon is not automatically permanent.",
+      "memoryHook": "Upfront carbon happens before the building is used.",
+      "hint": "Choose the proposed material substitution, not a recycling-only argument.",
+      "reviewNotes": [
+        "Do not imply wood or straw is suitable for every structure or automatically carbon-neutral."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    },
+    {
+      "id": "paper-2025-a-q46",
+      "sourceQuestionNumber": 46,
+      "sourcePage": 13,
+      "origin": "past-paper-english-adaptation",
+      "chapter": "climate",
+      "topics": [
+        "sufficiency",
+        "electrification",
+        "upfront carbon"
+      ],
+      "stem": "What principle does the paper's author argue must accompany electrification, given the upfront carbon of replacing buildings, vehicles, and equipment?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Abundance focused only on large-scale energy storage.",
+          "explanation": "This does not address demand or replacement-related material impacts."
+        },
+        {
+          "id": "b",
+          "text": "Structural inertia: transition slowly to avoid any economic disruption.",
+          "explanation": "This is not the demand-reduction principle requested."
+        },
+        {
+          "id": "c",
+          "text": "Rely on future technology to remove the emissions.",
+          "explanation": "This postpones the problem rather than addressing sufficiency."
+        },
+        {
+          "id": "d",
+          "text": "Sufficiency: build what is needed, reduce demand, avoid unnecessary replacement, and support efficient density.",
+          "explanation": "This is the author's intended principle."
+        },
+        {
+          "id": "e",
+          "text": "Ignore manufacturing emissions and consider only operation.",
+          "explanation": "This omits the upfront carbon emphasized in the question."
+        }
+      ],
+      "answerOptionId": "d",
+      "gradingStatus": "provisional",
+      "answerBasis": "Inferred best option from the supplied question and concept; no official lecturer key supplied.",
+      "explanation": "The argument combines electrification with sufficiency and attention to upfront emissions. This is not a claim that every replacement or electric vehicle is worse than continued fossil-fuel use.",
+      "memoryHook": "Electrify thoughtfully; also ask how much is needed.",
+      "hint": "Look for the option that reduces unnecessary demand and replacement.",
+      "reviewNotes": [
+        "Keep the author's position attributed and avoid universal life-cycle claims."
+      ],
+      "referenceIds": [
+        "paper-2025-a"
+      ],
+      "diagram": null
+    }
+  ]
+}
