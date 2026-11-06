@@ -58,10 +58,20 @@ TEST_URL=http://127.0.0.1:4173/wi1103-planet-roast/ node scripts/browser-check.m
 
 It expects `/usr/bin/chromium`; override `CHROMIUM_PATH` if needed. It completes real Cram, Rematch, boss and simulation flows, checks keyboard/reload/settings/library behavior, and inspects desktop and 360 px layouts. Screenshots are written to `/tmp/planet-roast-*.png`. Use a disposable browser context; the script resets its own profile.
 
-## GitHub Pages (prepared, not published)
+## GitHub Pages (publication blocked by integration permissions)
 
 Push/PR checks run in `.github/workflows/ci.yml`. Production publication is **manual only** through `pages.yml` (`workflow_dispatch`). The fixed Vite base is `/wi1103-planet-roast/`; update it if the repository is renamed. Navigation stays within the application and does not require server rewrites.
 
-When you choose to publish, select **GitHub Actions** as the repository's Pages source, then run **Publish to GitHub Pages (manual)**. Only `dist/` is uploaded. Public hosting exposes the bundled English question bank even when the repository is private. Do not put private source PDFs in public assets. Hosting availability/permissions depend on the repository/account plan. A prepared workflow is not a deployed website; observe a successful run before sharing a live URL.
+Publication was requested on 6 November 2026. The app and workflows are committed to `main`. The attempt to enable Pages through the existing GitHub integration returned HTTP 403, `Resource not accessible by integration`. No Pages deployment was triggered or verified.
+
+The repository owner can complete publication:
+
+1. Open [Settings → Pages](https://github.com/rondocodes/wi1103-planet-roast/settings/pages) and select **GitHub Actions** under **Build and deployment → Source**.
+2. Open [Publish to GitHub Pages (manual)](https://github.com/rondocodes/wi1103-planet-roast/actions/workflows/pages.yml), choose **Run workflow**, select `main`, and run it.
+3. Wait for the build and deploy jobs to succeed. Open the URL returned by the deployment and check Home, a question, its submitted feedback, and asset loading before sharing it as live.
+
+Only `dist/` is uploaded: the production HTML, CSS, and JavaScript, including the English study bank. The original exam PDF, `private-source/`, kit archive, source documents, and other repository files are excluded from the website artifact. Public hosting exposes the bundled English question bank even when the repository is private. The repository was already public; its visibility and custom-domain settings were not changed.
+
+Publication checks: clean lockfile installation from the local npm cache, content validation (36 total / 32 provisional gradable / 4 blocked), type checking, all 24 tests, and production build passed. [GitHub CI also passed for the app commit](https://github.com/rondocodes/wi1103-planet-roast/actions/runs/42214092933). The local production HTML and both assets returned HTTP 200 under `/wi1103-planet-roast/` and matched the build bytes. Browser interaction checks could not run in this session because browser navigation and desktop input tools failed; deployed-page checks remain pending publication.
 
 Official guidance: https://vite.dev/guide/static-deploy#github-pages and https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages
